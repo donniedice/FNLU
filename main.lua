@@ -3,7 +3,7 @@ local a = CreateFrame("Frame")
 a:RegisterEvent("PLAYER_LEVEL_UP")
 a:SetScript("OnEvent",
 	function(self, event, ...)
-		PlaySoundFile("Interface\\Addons\\FFNU\\FFNU.ogg", "Master")
+		PlaySoundFile("Interface\\Addons\\FFNLU\\FFNLU.ogg", "Master")
 	end)
 
 -- Mute default level up sound
