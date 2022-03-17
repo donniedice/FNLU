@@ -1,6 +1,7 @@
 
 FNLU - Fortnite Level Up!
 
+ ------------------------------
 
 This is an addon that will play the "LEVEL UP!" chime from Fortnite when you level up in WoW.
 
