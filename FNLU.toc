@@ -1,5 +1,5 @@
-## Interface: 90200
-## Version: 1.0.3
+## Interface: 90205
+## Version: 1.0.4
 ## Title:|cffffffffFortnite|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,6 +7,8 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/FNLU
 ## X-Curse-Project-ID: 594129
+## X-Tukui-ProjectID: 225
+## X-Wago-ID: e56naAN9
 ## X-WoWI-ID: 26253
 
 main.lua
