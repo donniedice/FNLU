@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.0.7
+## Version: 1.0.9
 ## Title:|cff94499bFortnite|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
