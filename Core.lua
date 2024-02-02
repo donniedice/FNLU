@@ -1,4 +1,4 @@
--- v1.0.9
+-- v1.0.10
 
 -- Event function level up
 -- Plays a custom sound effect when the player levels up in Fortnite.

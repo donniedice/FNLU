@@ -1,8 +1,8 @@
 ## Interface: 30403
-## Version: 1.0.9
+## Version: 1.0.10
 ## Title:|cff94499bFortnite|r Level Up!
 ## Author: DonnieDice
-## Notes: Grats!
+## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/FNLU
